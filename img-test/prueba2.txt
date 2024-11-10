@@ -1,0 +1,5 @@
+Así se hizo la prueba para la imagen 1:
+
+
+
+python3 main.py h /Users/LopezDaniel/Escuela/Modelado/Proyectos/Esteganografia-LSB/img-test/prueba1.txt /Users/LopezDaniel/Escuela/Modelado/Proyectos/Esteganografia-LSB/img-test/1.jpg /Users/LopezDaniel/Escuela/Modelado/Proyectos/Esteganografia-LSB/img-test/imagen_codi

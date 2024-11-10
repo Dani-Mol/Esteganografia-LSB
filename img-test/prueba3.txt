@@ -1,0 +1,5 @@
+Y así para la develación de las imágenes:
+
+
+
+python3 main.py u /Users/LopezDaniel/Escuela/Modelado/Proyectos/Esteganografia-LSB/img-test/2.imagen_codi.png /Users/LopezDaniel/Escuela/Modelado/Proyectos/Esteganografia-LSB/img-test/1.texto_secreto
