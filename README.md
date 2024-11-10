@@ -121,7 +121,3 @@ Proporciona las funciones necesarias para extraer y guardar mensajes desde una i
 ## Consideraciones de Seguridad
 
 Este método no proporciona encriptación, por lo que cualquier persona que conozca el método LSB y tenga acceso al script puede extraer el mensaje. Para mayor seguridad, se recomienda aplicar un cifrado adicional al mensaje antes de ocultarlo en la imagen.
-
-## Licencia
-
-Este proyecto está disponible bajo la licencia MIT.
